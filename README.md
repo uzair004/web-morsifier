@@ -1,6 +1,10 @@
 ## Demo
 
 
+https://github.com/user-attachments/assets/7a3aeddd-74cc-4d36-a8e2-dca6cf696e28
+
+
+
 
 ## How to use
 1. Open Chrome > Manage Extensions
