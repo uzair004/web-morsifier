@@ -1,3 +1,7 @@
+## Demo
+
+
+
 ## How to use
 1. Open Chrome > Manage Extensions
 2. Click Load Unpacked > Select folder containing `menifest.json` file (i.e root folder)
